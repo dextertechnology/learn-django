@@ -1,0 +1,3 @@
+-e git+https://github.com/django/django.git@ab7f4c330629f24f006a35729ee0d758711312fa#egg=Django
+pkg-resources==0.0.0
+pytz==2017.3
