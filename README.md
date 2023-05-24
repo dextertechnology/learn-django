@@ -1,1 +1,1 @@
-This is Django
+This is Django. OK
